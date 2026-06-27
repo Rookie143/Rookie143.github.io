@@ -1,4 +1,6 @@
 # 🔥 News
+- *2026.05*: 🎉 My first-author paper, [Defending Jailbreak Attacks on Large Language Models via Manifold Trajectory Kinetics](https://arxiv.org/abs/2606.07335), is accepted by USENIX Security 2026.
+- *2026.04*: 🎉 One paper, [Dual-branch Robust Unlearnable Examples](https://arxiv.org/abs/2605.01718), is accepted by ICML 2026.
 - *2025.09*: 🎉 One paper is accepted by NeurIPS
 - *2025.09*: 🎉 One paper is accepted by TMM (IEEE Transactions on Multimedia)
 - *2025.08*: 🎉 One co-first author paper is accepted by TDSC

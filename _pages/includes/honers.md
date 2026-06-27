@@ -1,4 +1,6 @@
 # 🎖 Honors and Awards
+- *2025.11* National Scholarship (Postgraduate) (Top 1%)
+- *2025.11* BYD Scholarship
 - *2024.11* National Scholarship (Postgraduate) (Top 1%)
 - *2023.02* 1st place in IEEE Trojan Removal Competition ([IEEE TRC](https://www.trojan-removal.com/)) (Linshan Hou (HIT), Wenkai Zheng (BUPT), **Hangtao Zhang** (HUST))
 - *2022.12* [Baosteel Outstanding Student Award](http://www.bsef.baosteel.com/#/) (only 472 students in China)
