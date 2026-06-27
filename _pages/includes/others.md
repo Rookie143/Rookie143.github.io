@@ -5,7 +5,7 @@
 - *2019.09 - 2023.06*, Undergraduate, Xiangtan Univeristy, Xiangtan.
 
 # 📖 Experience
-- *2025.06 - Present*, Remote Research Assistant, Northwestern University, supervised by Prof. [Manling Li](https://limanling.github.io/) and Dr. [Canyu Chen](https://www.canyuchen.com/).
+- *2025.06 - 2025.12*, Remote Research Assistant, Northwestern University, supervised by Prof. [Manling Li](https://limanling.github.io/) and Dr. [Canyu Chen](https://www.canyuchen.com/).
 - *2025.07 - 2025.09*, Research Assistant, Centre for Data Science, The University of Hong Kong, supervised by Prof. [Ka-Ho Chow](https://khchow.com/).
 - *2025.05 - 2025.07*, Research Intern, Hangzhou Xingyan Intelligent Technology Co., Ltd., supervised by Prof. [Chang Xu](http://changxu.xyz/) (University of Sydney).
 
