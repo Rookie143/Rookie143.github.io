@@ -2,6 +2,7 @@
 # 📝 Publications 
 
 ##  Jailbreak 
+- ``ACM MM 2026`` [PVDetector: Detecting Prompt Injection Attacks on Purpose-Specific LLM Agents through Policy-Violation Concept Analysis](https://openreview.net/forum?id=9JgqdGroXQ), Junhui Wang, **Hangtao Zhang**, Zhirun Zheng, Li Zeng, Jiejun Xiao, Xi Luo, Lihua Yin, Saiqin Long
 - ``USENIX Security 2026`` [Defending Jailbreak Attacks on Large Language Models via Manifold Trajectory Kinetics](https://arxiv.org/abs/2606.07335), **Hangtao Zhang**, Yucheng Zhao, Sishun Liu, Ziqi Zhou, Zeyu Ye, Wei Wan, Minghui Li, Shengshan Hu, Yanjun Zhang, Yi Liu, Leo Yu Zhang
 - ``ICLR 2025`` [Badrobot: Jailbreaking Embodied LLM Agents in the physical world](https://openreview.net/pdf?id=ei3qCntB66), **Hangtao Zhang**, Chenyu Zhu, Xianlong Wang, Ziqi Zhou, Changgan Yin, Minghui Li, Lulu Xue, Yichen Wang, Shengshan Hu, Aishan Liu, Peijin Guo, Leo Yu Zhang
 
@@ -19,6 +20,7 @@
 - ``TDSC 2025`` [Fine-Grained Poisoning Framework against Federated Learning](https://www.ijcai.org/proceedings/2023/0508),  Minghui Li¹*, **Hangtao Zhang**¹*, Yanjun Zhang, Li Zeng, Chao Chen, Qiyun Shao, Wei Wan, Shengshan Hu, Leo Yu Zhang. (¹*Co-first authors)
 
 ## 🌌 Adversarial Attacks and Defenses
+- ``ACM MM 2026`` [GhostPrompt: Cross-Image Adversarial Prompt for Vision-Language Models](https://openreview.net/forum?id=TnxFkONotD), Li Zeng, Zeyu Ye, Meng Xie, **Hangtao Zhang**, Xianlong Wang, Yanchun Li, Zhetao Li
 - ``NeurIPS 2025`` [AdvEDM: Fine-grained Adversarial Attack against VLM-based Embodied Decision-Making Systems](https://dl.acm.org/doi/abs/10.1145/3581783.3612454), Yichen Wang, **Hangtao Zhang**, Hewen Pan, Ziqi Zhou, Xianlong Wang, Peijin Guo, Lulu Xue, Shengshan Hu, Minghui Li, Leo Yu Zhang
 - ``ACM MM 2023`` [AdvCLIP: Downstream-agnostic Adversarial Examples in Multimodal Contrastive Learning](https://dl.acm.org/doi/abs/10.1145/3581783.3612454), Ziqi Zhou, Shengshan Hu, Minghui Li, **Hangtao Zhang**, Yechao Zhang, Hai Jin
 - ``AAAI 2025`` [Breaking Barriers in Physical-World Adversarial Examples: Improving Robustness and Transferability via Robust Feature](https://ojs.aaai.org/index.php/AAAI/article/view/32870), Yichen Wang, Yuxuan Zhou, Ziqi Zhou, **Hangtao Zhang**, Wei Wan, Shengshan Hu, Minghui Li
