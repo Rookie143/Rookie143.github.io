@@ -1,12 +1,18 @@
 
 # 📝 Publications 
 
+## 📚 Surveys
+- ``Preprint 2026`` [Safety in Self-Evolving Agents: A Survey](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=H6wMyNEAAAAJ&cstart=20&pagesize=80&citation_for_view=H6wMyNEAAAAJ:mVmsd5A6BfQC), Jiahao Chen, Zhou Feng, Oubo Ma, Yichen Yan, Ruixiao Lin, **Hangtao Zhang**, Linkang Du, Hengyu An, Yong Yang, et al.
+- ``arXiv 2026`` [Image-to-Video Diffusion: From Foundations to Open Frontiers](https://arxiv.org/abs/2605.17248), Xianlong Wang, Wenbo Pan, Shijia Zhou, Ke Li, Yuqi Wang, Zeyu Ye, **Hangtao Zhang**, Leo Yu Zhang, Xiaohua Jia
+
 ##  Jailbreak 
+- ``arXiv 2026`` [TYPO: Instruction-Dense Visual Jailbreaks against Commercial Closed-Source Image-Generation Models](https://arxiv.org/abs/2607.24897), Meng Xie, Li Zeng, **Hangtao Zhang**, Xianlong Wang, Ziqi Zhou, Pengpeng Qiao, Zhetao Li
 - ``ACM MM 2026`` [PVDetector: Detecting Prompt Injection Attacks on Purpose-Specific LLM Agents through Policy-Violation Concept Analysis](https://openreview.net/forum?id=9JgqdGroXQ), Junhui Wang, **Hangtao Zhang**, Zhirun Zheng, Li Zeng, Jiejun Xiao, Xi Luo, Lihua Yin, Saiqin Long
 - ``USENIX Security 2026`` [Defending Jailbreak Attacks on Large Language Models via Manifold Trajectory Kinetics](https://arxiv.org/abs/2606.07335), **Hangtao Zhang**, Yucheng Zhao, Sishun Liu, Ziqi Zhou, Zeyu Ye, Wei Wan, Minghui Li, Shengshan Hu, Yanjun Zhang, Yi Liu, Leo Yu Zhang
 - ``ICLR 2025`` [Badrobot: Jailbreaking Embodied LLM Agents in the physical world](https://openreview.net/pdf?id=ei3qCntB66), **Hangtao Zhang**, Chenyu Zhu, Xianlong Wang, Ziqi Zhou, Changgan Yin, Minghui Li, Lulu Xue, Yichen Wang, Shengshan Hu, Aishan Liu, Peijin Guo, Leo Yu Zhang
 
 ## 🚪 Backdoor Attacks and Defenses
+- ``arXiv 2026`` [ODPure: Backdoor Purification for Object Detection via Ensemble Corruption Consensus](https://arxiv.org/abs/2609.28239), Li Zeng, Mingcheng Duan, Longfei Fan, **Hangtao Zhang**, Xianlong Wang, Yanchun Li, Xia Wen, Leo Yu Zhang
 - ``IJCAI 2024`` [Detector Collapse: Backdooring Object Detection to Catastrophic Overload or Blindness](https://www.ijcai.org/proceedings/2024/185), **Hangtao Zhang**, Shengshan Hu, Yichen Wang, Leo Yu Zhang, Ziqi Zhou, Xianlong Wang, Yanjun Zhang, Chao Chen
 - ``TDSC 2024`` [Reverse Backdoor Distillation: Towards Online Backdoor Attack Detection for Deep Neural Network Models](https://ieeexplore.ieee.org/abstract/document/10444929), Zeming Yao, **Hangtao Zhang**, Yicheng Guo, Xin Tian, Wei Peng, Yi Zou, Leo Yu Zhang, Chao Chen
 - ``CVPR 2025`` [Test-Time Backdoor Detection for Object Detection Models](https://arxiv.org/abs/2503.15293), **Hangtao Zhang**, Yichen Wang, Shihui Yan, Chenyu Zhu, Ziqi Zhou, Linshan Hou, Shengshan Hu, Minghui Li, Yanjun Zhang, Leo Yu Zhang

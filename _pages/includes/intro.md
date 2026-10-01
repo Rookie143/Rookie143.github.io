@@ -3,4 +3,4 @@ I aspire to become a knowledge-focused content creator in the future (though cur
 
 My research interests include **Large Model Security**, **AI Agents**, **Embodied AI**, and **Adversarial Machine Learning**.
 
-I received my master's degree from [Huazhong University of Science and Technology](https://www.hust.edu.cn/), where I had the privilege of being advised by Prof. [Shengshan Hu](http://faculty.hust.edu.cn/HUSHENGSHAN/zh_CN/index/2293173/list/index.htm).
+I received my master's degree from [Huazhong University of Science and Technology](https://www.hust.edu.cn/), advised by Prof. [Shengshan Hu](http://faculty.hust.edu.cn/HUSHENGSHAN/zh_CN/index/2293173/list/index.htm).

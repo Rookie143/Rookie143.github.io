@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.09*: 🏅 I was awarded the **Richard Foulke Day Memorial Fellowship** at the University of Pennsylvania, with a **$3,000 fellowship award**.
 - *2026.07*: 🎉 Two papers are accepted by ACM MM 2026.
 - *2026.05*: 🎉 My first-author paper, [Defending Jailbreak Attacks on Large Language Models via Manifold Trajectory Kinetics](https://arxiv.org/abs/2606.07335), is accepted by USENIX Security 2026.
 - *2026.04*: 🎉 One paper, [Dual-branch Robust Unlearnable Examples](https://arxiv.org/abs/2605.01718), is accepted by ICML 2026.

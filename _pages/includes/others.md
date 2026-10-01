@@ -10,5 +10,5 @@
 - *2025.05 - 2025.07*, Research Intern, Hangzhou Xingyan Intelligent Technology Co., Ltd., supervised by Prof. [Chang Xu](http://changxu.xyz/) (University of Sydney).
 
 # 📖 Service
-- *Conference Reviewer*: ICML (2025-26), ICLR (2025-26), NeurIPS (2025-26), CVPR (2025-26), ICCV (2025), ECCV (2026), KDD (2025-26).
+- *Conference Reviewer*: ICML (2025-26), ICLR (2025-27), NeurIPS (2025-26), CVPR (2025-26), ICCV (2025), ECCV (2026), KDD (2025-27), AAAI (2024-27), ACM MM (2024-26), BMVC (2025-26).
 - *Journal Reviewer*: International Journal of Computer Vision (IJCV), IEEE Transactions on Dependable and Secure Computing (TDSC), IEEE Transactions on Information Forensics and Security (TIFS), IEEE Transactions on Multimedia (TMM).

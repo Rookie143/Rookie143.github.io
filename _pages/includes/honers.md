@@ -1,4 +1,5 @@
 # 🎖 Honors and Awards
+- *2026.09* **Richard Foulke Day Memorial Fellowship**, University of Pennsylvania (**$3,000**)
 - *2025.11* National Scholarship (Postgraduate) (Top 1%)
 - *2025.11* BYD Scholarship
 - *2024.11* National Scholarship (Postgraduate) (Top 1%)
